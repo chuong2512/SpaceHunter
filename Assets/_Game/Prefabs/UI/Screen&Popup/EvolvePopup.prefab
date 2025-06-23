@@ -40,7 +40,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -447.5}
-  m_SizeDelta: {x: 438.1809, y: 570.0173}
+  m_SizeDelta: {x: 430, y: 567}
   m_Pivot: {x: 0.5, y: 0.000000029802322}
 --- !u!222 &1623873089564560121
 CanvasRenderer:
@@ -70,7 +70,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ed8c0f268b60454468c4ae28167edb60, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6389097dcdd4d55438b31eee522bd198, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -203,8 +203,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 212}
-  m_SizeDelta: {x: 382.8711, y: 58.4183}
+  m_AnchoredPosition: {x: 0.001709, y: 165}
+  m_SizeDelta: {x: 281.13, y: 58.4183}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &3766441219860791008
 CanvasRenderer:
@@ -243,8 +243,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4278245631
+  m_fontColor: {r: 1, g: 0.84751457, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -261,10 +261,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 48.6
+  m_fontSize: 43.55
   m_fontSizeBase: 48.6
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -337,8 +337,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 19}
-  m_SizeDelta: {x: 0, y: 152.5116}
+  m_AnchoredPosition: {x: 0, y: 30.1}
+  m_SizeDelta: {x: 0, y: 97.6627}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &172223348474918328
 MonoBehaviour:
@@ -400,8 +400,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -52.5464}
-  m_SizeDelta: {x: 369.9726, y: 79.0929}
+  m_AnchoredPosition: {x: 0, y: -48}
+  m_SizeDelta: {x: 211.2889, y: 79.0929}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7727634210666845003
 CanvasRenderer:
@@ -458,8 +458,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 60.4
-  m_fontSizeBase: 60.4
+  m_fontSize: 38.02
+  m_fontSizeBase: 38.02
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -668,8 +668,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -172}
-  m_SizeDelta: {x: 369.9726, y: 58.418304}
+  m_AnchoredPosition: {x: 0.000012398, y: -133.4}
+  m_SizeDelta: {x: 281.1334, y: 135.6698}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!222 &7486977688827362833
 CanvasRenderer:
@@ -726,12 +726,12 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 136
+  m_fontSize: 100.1
   m_fontSizeBase: 136
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
-  m_fontSizeMax: 72
+  m_fontSizeMax: 100.1
   m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
@@ -815,6 +815,18 @@ PrefabInstance:
     - target: {fileID: 378012269364998591, guid: 4a3001b27228395418c7e9289e83800f, type: 3}
       propertyPath: m_SizeDelta.y
       value: 116.5179
+      objectReference: {fileID: 0}
+    - target: {fileID: 378012269364998591, guid: 4a3001b27228395418c7e9289e83800f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.79656726
+      objectReference: {fileID: 0}
+    - target: {fileID: 378012269364998591, guid: 4a3001b27228395418c7e9289e83800f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.79656726
+      objectReference: {fileID: 0}
+    - target: {fileID: 378012269364998591, guid: 4a3001b27228395418c7e9289e83800f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.79656726
       objectReference: {fileID: 0}
     - target: {fileID: 378012269364998591, guid: 4a3001b27228395418c7e9289e83800f, type: 3}
       propertyPath: m_LocalPosition.x

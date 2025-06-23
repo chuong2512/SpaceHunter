@@ -14,12 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _infoMapItems:
   - mapID: 0
-    name: "1. Ng\u0169 H\xE0nh S\u01A1n"
-    info: "500 n\u0103m tr\xF4i qua, tr\u1EA3i qua phong ba tu\u1EBF nguy\u1EC7t,
-      l\xE1 b\xF9a th\u1EA7n k\u1EF3 kh\xF4ng b\u1ECB m\u1EE5c n\xE1t, kh\xF4ng m\u1EA5t
-      ch\u1EEF cho \u0111\u1EBFn ng\xE0y Ng\u1ED9 Kh\xF4ng ch\xEDnh th\u1EE9c ph\xF2
-      gi\xE1 \u0110\u01B0\u1EDDng T\u0103ng sang T\xE2y Thi\xEAn th\u1EC9nh kinh."
-    icon: {fileID: 21300000, guid: 5ef0c01737e51194f954caed6cfd4600, type: 3}
+    name: Planet 1
+    info: Explore new planet with your skill
+    icon: {fileID: 21300000, guid: 6e4bd760e50f1744eab6c13118e4ce43, type: 3}
     dataMap:
       EnemyAttribute:
         <Health>k__BackingField: 10
@@ -47,12 +44,9 @@ MonoBehaviour:
       - {fileID: 3537171100188795310, guid: fd4f305029771814db0d47f86b2d04bf, type: 3}
       Boss: []
   - mapID: 1
-    name: "2. \u0110\u1ED9ng B\u1EA1ch H\u1ED5"
-    info: "B\u1EA1ch C\u1ED1t Tinh l\xE0 y\xEAu qu\xE1i \u1EDF \u0111\u1ED9ng B\u1EA1ch
-      H\u1ED5 \u0111\xE3 ba l\u1EA7n bi\u1EBFn h\xF3a \u0111\u1EC3 l\u1EEBa b\u1EAFt
-      \u0110\u01B0\u1EDDng T\u0103ng v\xE0 ba l\u1EA7n b\u1ECB T\xF4n Ng\u1ED9 Kh\xF4ng
-      \u0111\xE1nh ch\u1EBFt."
-    icon: {fileID: 21300000, guid: b91389e74e9706a48a6c1b7a0e747c44, type: 3}
+    name: Planet 2
+    info: Explore new planet with your skill
+    icon: {fileID: 21300000, guid: 3a25638bcfc25e1458b2b13947bec132, type: 3}
     dataMap:
       EnemyAttribute:
         <Health>k__BackingField: 28
@@ -81,12 +75,9 @@ MonoBehaviour:
       - {fileID: 3537171100188795310, guid: b6675e95900e8474ca01e96fbd3ab2bd, type: 3}
       Boss: []
   - mapID: 2
-    name: 3. Cao gia trang
-    info: "500 n\u0103m tr\xF4i qua, tr\u1EA3i qua phong ba tu\u1EBF nguy\u1EC7t,
-      l\xE1 b\xF9a th\u1EA7n k\u1EF3 kh\xF4ng b\u1ECB m\u1EE5c n\xE1t, kh\xF4ng m\u1EA5t
-      ch\u1EEF cho \u0111\u1EBFn ng\xE0y Ng\u1ED9 Kh\xF4ng ch\xEDnh th\u1EE9c ph\xF2
-      gi\xE1 \u0110\u01B0\u1EDDng T\u0103ng sang T\xE2y Thi\xEAn th\u1EC9nh kinh."
-    icon: {fileID: 21300000, guid: f1a2e1266a751a745bf8a8d77b1ce7c2, type: 3}
+    name: Planet 3
+    info: Explore new planet with your skill
+    icon: {fileID: 21300000, guid: 6d8a4f13d0e2e3f44bae5387a27660f0, type: 3}
     dataMap:
       EnemyAttribute:
         <Health>k__BackingField: 40
@@ -116,12 +107,9 @@ MonoBehaviour:
       - {fileID: 3537171100188795310, guid: bd55a62da43d15d4f96b3223088cb8ff, type: 3}
       Boss: []
   - mapID: 3
-    name: "4. S\xF4ng l\u01B0u sa"
-    info: "500 n\u0103m tr\xF4i qua, tr\u1EA3i qua phong ba tu\u1EBF nguy\u1EC7t,
-      l\xE1 b\xF9a th\u1EA7n k\u1EF3 kh\xF4ng b\u1ECB m\u1EE5c n\xE1t, kh\xF4ng m\u1EA5t
-      ch\u1EEF cho \u0111\u1EBFn ng\xE0y Ng\u1ED9 Kh\xF4ng ch\xEDnh th\u1EE9c ph\xF2
-      gi\xE1 \u0110\u01B0\u1EDDng T\u0103ng sang T\xE2y Thi\xEAn th\u1EC9nh kinh."
-    icon: {fileID: 21300000, guid: 3f833322b500cea41b61f8f0fab3c99e, type: 3}
+    name: Planet 4
+    info: Explore new planet with your skill
+    icon: {fileID: 21300000, guid: 75af9bbf61bf5f04aa91cbaf93c48727, type: 3}
     dataMap:
       EnemyAttribute:
         <Health>k__BackingField: 60
@@ -154,12 +142,9 @@ MonoBehaviour:
       - {fileID: 3537171100188795310, guid: ee483b13f0559c44a96b7ddddb914ce4, type: 3}
       Boss: []
   - mapID: 4
-    name: "5. N\xFAi H\u1EAFc T\xF2ng"
-    info: "500 n\u0103m tr\xF4i qua, tr\u1EA3i qua phong ba tu\u1EBF nguy\u1EC7t,
-      l\xE1 b\xF9a th\u1EA7n k\u1EF3 kh\xF4ng b\u1ECB m\u1EE5c n\xE1t, kh\xF4ng m\u1EA5t
-      ch\u1EEF cho \u0111\u1EBFn ng\xE0y Ng\u1ED9 Kh\xF4ng ch\xEDnh th\u1EE9c ph\xF2
-      gi\xE1 \u0110\u01B0\u1EDDng T\u0103ng sang T\xE2y Thi\xEAn th\u1EC9nh kinh."
-    icon: {fileID: 21300000, guid: bcc8006aefa8e3547a0a8fd6ee998526, type: 3}
+    name: Planet 5
+    info: Explore new planet with your skill
+    icon: {fileID: 21300000, guid: 827b59694d489ec419ec43b37c2cf235, type: 3}
     dataMap:
       EnemyAttribute:
         <Health>k__BackingField: 70
@@ -193,12 +178,9 @@ MonoBehaviour:
       - {fileID: 3537171100188795310, guid: ee483b13f0559c44a96b7ddddb914ce4, type: 3}
       Boss: []
   - mapID: 5
-    name: "6. N\xFAi Hi\u1EC7u S\u01A1n"
-    info: "500 n\u0103m tr\xF4i qua, tr\u1EA3i qua phong ba tu\u1EBF nguy\u1EC7t,
-      l\xE1 b\xF9a th\u1EA7n k\u1EF3 kh\xF4ng b\u1ECB m\u1EE5c n\xE1t, kh\xF4ng m\u1EA5t
-      ch\u1EEF cho \u0111\u1EBFn ng\xE0y Ng\u1ED9 Kh\xF4ng ch\xEDnh th\u1EE9c ph\xF2
-      gi\xE1 \u0110\u01B0\u1EDDng T\u0103ng sang T\xE2y Thi\xEAn th\u1EC9nh kinh."
-    icon: {fileID: 21300000, guid: 5ef0c01737e51194f954caed6cfd4600, type: 3}
+    name: Planet 6
+    info: Explore new planet with your skill
+    icon: {fileID: 21300000, guid: 3a25638bcfc25e1458b2b13947bec132, type: 3}
     dataMap:
       EnemyAttribute:
         <Health>k__BackingField: 80
