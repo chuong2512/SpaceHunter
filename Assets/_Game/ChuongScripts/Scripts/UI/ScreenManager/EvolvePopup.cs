@@ -31,7 +31,7 @@ public class EvolvePopup : BaseScreenWithModel<EvolveLevel>
             _gameData.evolveData.Upgrade();
 
             ToastManager.Instance.ShowMessageToast("Nâng cấp thành công!!!");
-            CloseView();
+            ScreenManager.Instance.Back();
         }
         else
         {
