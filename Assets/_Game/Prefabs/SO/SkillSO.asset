@@ -116,7 +116,7 @@ MonoBehaviour:
     - rid: 3794718671322742910
       type: {class: WeaponSkillInfo, ns: Game, asm: Assembly-CSharp}
       data:
-        icon: {fileID: 21300000, guid: 8d1b68323a71894428366529ef29beda, type: 3}
+        icon: {fileID: 21300000, guid: 380dfc45b4e55d84dbe25e8ef3458780, type: 3}
         <nameSkill>k__BackingField: "B\xE1nh r\u0103ng t\u1EED th\u1EA7n "
         contentSkill: " Ph\xE2n th\xE2n ra c\xE1c b\xE1nh r\u0103ng theo v\xF2ng
           tr\xF2n quanh."
@@ -124,7 +124,7 @@ MonoBehaviour:
     - rid: 3794718671322742911
       type: {class: WeaponSkillInfo, ns: Game, asm: Assembly-CSharp}
       data:
-        icon: {fileID: 21300000, guid: 380dfc45b4e55d84dbe25e8ef3458780, type: 3}
+        icon: {fileID: 21300000, guid: 8d1b68323a71894428366529ef29beda, type: 3}
         <nameSkill>k__BackingField: "Qu\u1EA3 c\u1EA7u hu\u1EF7 di\u1EC7t"
         contentSkill: "T\u1EA1o ra nh\u1EEFng  Qu\u1EA3 c\u1EA7u hu\u1EF7 di\u1EC7t
           xung quanh nh\xE2n v\u1EADt \u0111\u1EC3 hu\u1EF7 di\u1EC7t m\u1ECDi th\u1EE9
