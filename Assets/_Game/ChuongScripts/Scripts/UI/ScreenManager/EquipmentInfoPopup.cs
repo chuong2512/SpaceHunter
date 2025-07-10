@@ -105,12 +105,12 @@ namespace Game
                 }
                 else
                 {
-                    ToastManager.Instance.ShowMessageToast("Nâng cấp tối đa!!!");
+                    ToastManager.Instance.ShowMessageToast("Max Level!!!");
                 }
             }
             else
             {
-                ToastManager.Instance.ShowWarningToast("Không đủ xu!!!");
+                ToastManager.Instance.ShowWarningToast("Not enough coins!!!");
             }
         }
 
@@ -130,10 +130,10 @@ namespace Game
         {
             var equipmentData = _dataManager.EquipmentSO.GetEquipmentData(_equipment.ID);
             var equipment = _dataManager.EquipmentSO.GetListUpgradeSkill(_equipment);
-            nameTMP.SetText("Tên : " + (equipmentData.name));
-            levelTMP.SetText("Cấp độ : " + (_equipment.Level + 1));
+            nameTMP.SetText("Name : " + (equipmentData.name));
+            levelTMP.SetText("Level : " + (_equipment.Level + 1));
             priceTMP.SetText(
-                "Nâng cấp : " + equipmentData.equipmentUpgradeInfos[_equipment.Level].price.Value + " <sprite=0>");
+                "Price : " + equipmentData.equipmentUpgradeInfos[_equipment.Level].price.Value + " <sprite=0>");
             equipmentStat.SetStat(equipment[0]);
         }
 

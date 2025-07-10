@@ -38,7 +38,7 @@ namespace Game
             }
             else
             {
-                ToastManager.Instance.ShowWarningToast("Không đủ gem. Hãy nạp thêm.");
+                ToastManager.Instance.ShowWarningToast("Không đủ lõi. Hãy nạp thêm.");
             }
         }
     }
