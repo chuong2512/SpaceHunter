@@ -3286,6 +3286,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1159968570}
     - target: {fileID: 6637670738283112197, guid: c3225073ab7aa3f4a88e353e468b6786, type: 3}
+      propertyPath: _isLock
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6637670738283112197, guid: c3225073ab7aa3f4a88e353e468b6786, type: 3}
       propertyPath: _manager
       value: 
       objectReference: {fileID: 1704579510}
