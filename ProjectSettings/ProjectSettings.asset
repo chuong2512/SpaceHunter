@@ -776,7 +776,7 @@ PlayerSettings:
   scriptingDefineSymbols:
     Android: ODIN_INSPECTOR;ODIN_INSPECTOR_3;DISABLE_3D_SOUND;PHY2D_ENABLED;MULTIPLAYER_ENABLED
     Standalone: DISABLE_3D_SOUND;PHY2D_ENABLED;MULTIPLAYER_ENABLED;ODIN_INSPECTOR;ODIN_INSPECTOR_3
-    Windows Store Apps: 
+    Windows Store Apps: ODIN_INSPECTOR;ODIN_INSPECTOR_3
     iPhone: USE_ADMOB_PATCH
   additionalCompilerArguments: {}
   platformArchitecture: {}
