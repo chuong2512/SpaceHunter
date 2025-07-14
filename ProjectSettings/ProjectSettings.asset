@@ -815,11 +815,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: 2DURP
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: SpaceXHunter
+  metroCertificateIssuer: SpaceXHunter
+  metroCertificateNotAfter: 0004d2efa613dd01
   metroApplicationDescription: 2D_URP
   wsaImages: {}
   metroTileShortName: "Ng\u1ED9 Kh\xF4ng \u0110\u1EA1i Chi\u1EBFn"
